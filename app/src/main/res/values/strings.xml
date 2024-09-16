@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ans Link</string>
+    <string name="web_url">https://www.example.com</string>  <!-- Tumhari website ka URL -->
+</resources>
